@@ -13,6 +13,8 @@ However, judging by the chart, it looks like ride sharing activity in suburban a
 ## Summary
 Judging by the data I would make 3 reccomendations to the CEO:
 
--invest more in ride sharing infrastructure for suburban areas, hire more drivers, because it has the highest likelyhood to grow in the coming months.
--lowering (subsidizing) the average cost of rural rides may enourage more rural riders to use PyBer more, as currently the cost may outweigh the benefit.
--raising average fare costs slightly for urban areas may offset #2 and because we can.
+* invest more in ride sharing infrastructure for suburban areas, hire more drivers, because it has the highest likelyhood to grow in the coming months.
+
+* lowering (subsidizing) the average cost of rural rides may enourage more rural riders to use PyBer more, as currently the cost may outweigh the benefit.
+
+* raising average fare costs slightly for urban areas may offset #2 and because we can.
